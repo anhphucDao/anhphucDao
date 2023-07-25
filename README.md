@@ -1,7 +1,15 @@
-<h1 align="center">
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary>
+     <h1 align="center">
  <samp>&gt; Hey There 👋!, I am
                 <b><a target="_blank" href="">Andrew Dao</a></b>
-        </samp></h1>
+        </samp>
+</h1>
+    </summary>
+  </ul>
+</div>
+
 <h2 align="center">
   <samp>
     「 I am an enthusiastic software developer 」
@@ -10,28 +18,24 @@
 
 <br>
 
-<img alt="conding-gif" width="400" src="https://anhdepfree.com/wp-content/uploads/2020/05/anh-dong-gif-dang-yeu.gif" align="right" left="50" ></img>
 
-<h2 align="center">About me</h3>
+<h2 align="center">About me</h2>
 
-- 🏫 I’m currently a second year student major in <b> Computer Science </b> at <a target="_blank" href="https://hcmut.edu.vn/en">
-Ho Chi Minh City University of Technology - HCMUT </a>
-
-- 🌱 I’m currently learning **Front-end, and Back-end for web developement**
-
-- 👨‍💻 All of my projects are available in my <a target="_blank" href="https://github.com/anhphucDao">github profile </a>
-
-- 📫 How to reach me **daoanhphuc84@gmail.com**
-
-- 🥰 My hobbies are: coding, reading books, watching movies, workout, ...
+<img alt="conding-gif" width="400" src="https://anhdepfree.com/wp-content/uploads/2020/05/anh-dong-gif-dang-yeu.gif" align="right" left="50"></img>
 
 
+- 🏫 Greetings! 🎓 I am a diligent second-year <b> Computer Science </b> student, currently pursuing my academic journey at <a target="_blank" href="https://hcmut.edu.vn/en"> Ho Chi Minh City University of Technology - HCMUT</a>. 📚 With a strong dedication to excellence and a thirst for knowledge, I am actively immersing myself in the world of technology.
 
+- 🌱 My current focus lies in honing my skills in both Front-end and Back-end web development. 💻 Through hands-on projects and rigorous learning, I aspire to create seamless and innovative digital solutions that make a meaningful impact.
 
-  
-</p>
+- 👨‍💻 Should you be interested in exploring my professional endeavors, I invite you to visit my <a target="_blank" href="https://github.com/anhphucDao">Github profile </a>. There, you'll find a collection of projects that I've worked on, which I hope reflect my enthusiasm for coding and problem-solving.
 
-##
+- 📫 I believe in the power of collaboration and mutual support in the tech community. So, if you'd like to connect, whether for potential collaborations or simply to discuss industry-related topics, feel free to reach out to me at **daoanhphuc84@gmail.com**. I'm always eager to engage in meaningful conversations.
+
+- 🥰 Beyond my academic pursuits, I value continuous self-improvement. I find solace in exploring academic literature and engaging in thought-provoking discussions. Additionally, I maintain a disciplined fitness routine that complements my professional endeavors, ensuring a healthy work-life balance.
+
+<br>
+
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <!-- Front-end related -->
@@ -173,7 +177,7 @@ Ho Chi Minh City University of Technology - HCMUT </a>
 
 </p>
 
-##
+<br>
 
  <h2 align="center">Github stats:</h2>
 
@@ -183,7 +187,7 @@ Ho Chi Minh City University of Technology - HCMUT </a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhphucdao&" alt="anhphucdao" w="35%"/>
 </p>
 
-
+<br>
 
 <h2 align="center"> Let's connect! </h2>
 <p align="center">
