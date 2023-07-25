@@ -1,3 +1,5 @@
+<img src="https://images.squarespace-cdn.com/content/v1/5dd56775a350703176787dff/1588091052849-EDUOLQQBOV9FHF24GP4I/blog-post-hero.jpg?format=2500w">
+
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
