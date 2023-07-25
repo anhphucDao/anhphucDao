@@ -21,7 +21,7 @@
 
 <h2 align="center">About me</h2>
 
-<img alt="conding-gif" width="400" src="https://anhdepfree.com/wp-content/uploads/2020/05/anh-dong-gif-dang-yeu.gif" align="right" left="50"></img>
+<img alt="conding-gif" width="400" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif" align="right" left="50"></img>
 
 
 - 🏫 Greetings! 🎓 I am a diligent second-year <b> Computer Science </b> student, currently pursuing my academic journey at <a target="_blank" href="https://hcmut.edu.vn/en"> Ho Chi Minh City University of Technology - HCMUT</a>. 📚 With a strong dedication to excellence and a thirst for knowledge, I am actively immersing myself in the world of technology.
