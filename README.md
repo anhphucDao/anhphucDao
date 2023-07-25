@@ -1,4 +1,4 @@
-<img src="https://images.squarespace-cdn.com/content/v1/5dd56775a350703176787dff/1588091052849-EDUOLQQBOV9FHF24GP4I/blog-post-hero.jpg?format=2500w">
+<img src="assets/blog-post-hero.jpeg" width="2000">
 
 <div id="user-content-toc" align="center">
   <ul>
@@ -220,3 +220,4 @@
 
 </p>
 
+<img src="assets/2932.jpg" style="object-fit:cover" height="200" width="100%">
