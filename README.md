@@ -177,9 +177,10 @@ Ho Chi Minh City University of Technology - HCMUT </a>
 
  <h2 align="center">Github stats:</h2>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhphucdao&show_icons=true&locale=en&layout=compact" alt="anhphucdao" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhphucdao&" alt="anhphucdao" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhphucdao&show_icons=true&locale=en&layout=compact" alt="anhphucdao" w="65%"/>
+ &nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhphucdao&" alt="anhphucdao" w="35%"/>
 </p>
 
 
